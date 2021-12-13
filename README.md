@@ -24,8 +24,6 @@ After taking these inputs, you should print all the moves in the form of the cur
 
  Format: <player_name> wins the game
 
-Based on the inputs we get the output and Gets the output.
-
 ## Rules of the game
 
 * The board will have 100 cells numbered from 1 to 100.
